@@ -1,2 +1,2 @@
 # fd
-### [Data](/tree/main/data)
+### [Data](tree/main/data)
